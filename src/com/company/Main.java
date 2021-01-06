@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-
+        int a;
         Burger burger = new Burger();
 
         Producer producer = new Producer(burger);
